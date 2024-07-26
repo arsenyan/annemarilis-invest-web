@@ -3,7 +3,7 @@
 import Image from 'next/image';
 export default function Hero() {
    return (
-      <main className="flex flex-col gap-10 lg:pt-32 p-10 lg:flex-row lg:justify-between border-b-2 border-gray-200 pb-20">
+      <main className="flex flex-col gap-10 pt-10 lg:pt-32 lg:flex-row lg:justify-between border-b-2 border-gray-200 pb-20">
          <div className="flex flex-col gap-8 max-w-2xl lg:justify-between">
             <h1 className="lg:text-6xl md:text-6xl text-4xl font-semibold text-red-700">Welcome to Annemarillis Invest</h1>
             <div className="flex flex-col gap-4">

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Why() {
    return (
-      <section className="p-10 pt-32">
+      <section className="pt-32">
       <div className="flex lg:flex-row lg:gap-20 flex-col gap-10">
         <Image 
                className="object-cover object-top w-full h-64 lg:h-1/2 lg:w-1/2 rounded drop-shadow-2xl"

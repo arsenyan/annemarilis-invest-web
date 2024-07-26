@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={worksans.className}>
         <Header />
-        <div className="container mx-auto">
+        <div className="container mx-auto pl-3 pr-3 lg:pr-10 lg:pl-10 md:pr-10 md:pr-10">
         {children}
         </div>
         <Footer />
