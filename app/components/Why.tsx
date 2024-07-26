@@ -7,7 +7,7 @@ export default function Why() {
       <section className="pt-32">
       <div className="flex lg:flex-row lg:gap-20 flex-col gap-10">
         <Image 
-               className="object-cover object-top w-full h-64 lg:h-1/2 lg:w-1/2 rounded drop-shadow-2xl"
+               className="object-cover -rotate-2 object-top w-full h-64 lg:h-1/2 lg:w-1/2 rounded drop-shadow-2xl"
                src={'/Economic_Security_Conference.jpg'}
                width={600}
                height={600} alt={""}      />
