@@ -17,7 +17,7 @@ export default function Hero() {
         </div>
 
          <Image 
-            className="object-cover w-full h-64 lg:h-1/2 lg:w-1/2 lg:order-last rotate-2 rounded drop-shadow-2xl"
+            className="object-cover object-top w-full h-64 lg:h-1/2 lg:w-1/2 lg:order-last rotate-2 rounded drop-shadow-2xl"
             src={'/Belarus.png'} 
             alt="Picture of the author" 
             width={500} 
