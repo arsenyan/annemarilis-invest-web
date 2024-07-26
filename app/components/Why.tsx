@@ -12,11 +12,11 @@ export default function Why() {
                width={600}
                height={600} alt={""}      />
         <div className="flex flex-col gap-2 text-xl">
-        <h2 className="lg:text-4xl text-2xl font-semibold pb-10">{'Why Choose Us?'}</h2>
+        <h2 className="lg:text-4xl text-2xl font-semibold pb-10">Why Choose Us?</h2>
         <p>
-        {'Annemarillis Invest stands out through its deep industry knowledge, hands-on experience, and a commitment to fostering innovation and resilience in businesses. We understand the unique challenges and opportunities that come with managing and growing a business in today&apos;s dynamic environment.'}        </p>
+        Annemarillis Invest stands out through its deep industry knowledge, hands-on experience, and a commitment to fostering innovation and resilience in businesses. We understand the unique challenges and opportunities that come with managing and growing a business in today&apos;s dynamic environment.       </p>
         <p>
-        {'Partner with Annemarillis Invest and let us help you navigate the complexities of the business world with confidence and strategic insight.'}
+        Partner with Annemarillis Invest and let us help you navigate the complexities of the business world with confidence and strategic insight.
         </p>
         </div>
       </div>
