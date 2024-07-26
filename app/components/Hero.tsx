@@ -18,7 +18,7 @@ export default function Hero() {
 
          <Image 
             className="object-cover w-full h-64 lg:h-1/2 lg:w-1/2 lg:order-last rotate-2 rounded drop-shadow-2xl"
-            src={'/christian-lue-a4g9gql5XUU-unsplash.jpg'} 
+            src={'/Belarus.png'} 
             alt="Picture of the author" 
             width={500} 
             height={500} 
