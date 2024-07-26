@@ -6,6 +6,9 @@ export default function Contact() {
          <h2 className="text-2xl lg:text-4xl font-semibold">Contact us</h2>
          <p className="max-w-3xl">Ready to take your business to the next level? Get in touch with us today to learn more about how Annemarillis Invest can support your journey to success.
          </p>
+         <p className="max-w-3xl">
+            All inquiries: <a href="dkrutzinna@gmail.com" className="underline underline-offset-4">dkrutzinna@gmail.com</a>
+         </p>
       </header>
    )
 }
