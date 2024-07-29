@@ -14,11 +14,11 @@ export default function Services() {
             Benefit from seasoned advice and strategic direction with our board membership and personalized coaching for founders, designed to drive your business forward.
             </div>
             <div>
-                <h3 className="font-semibold text-xl pb-3 pt-5">Board Membership and Founders Coaching</h3>
+                <h3 className="font-semibold text-xl pb-3 pt-5">Business Diagnostics and Strategy Workshops</h3>
             Unlock your business&apos;s potential with our comprehensive diagnostics and tailored strategy workshops, ensuring a clear path to achieving your goals.
             </div>
             <div>
-            <h3 className="font-semibold text-xl pb-3 pt-5">Interims and Crisis Management</h3>
+            <h3 className="font-semibold text-xl pb-3 pt-5">Interim Management</h3>
             Navigate through challenging times with confidence, utilizing our interim management services and crisis management expertise to stabilize and steer your business effectively.
                         </div>
             <div><h3 className="font-semibold text-xl pb-3 pt-5">Workshops on Mission, Vision, Values</h3>
