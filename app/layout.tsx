@@ -15,12 +15,10 @@ export const metadata: Metadata = {
     title: "Annemarillis Invest",
     siteName: "Annemarillis Invest",
     description: "At Annemarillis Invest, we leverage over 25 years of experience in Management Consulting, Investment Strategy, M&A, Corporate Finance, and Social Entrepreneurship to provide family office services.",
-    url: "https://annemarillis.com",
-    images: "https://annemarillis.com/opengraph-image.png"
+    url: "https://annemarillis.com"
   },
   twitter: {
-    card: "summary_large_image",
-    "images": "https://annemarillis.com/twitter-image.png"
+    card: "summary_large_image"
   }
 };
 
