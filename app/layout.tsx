@@ -8,6 +8,7 @@ import Footer from "./components/widgets/Footer";
 const worksans = Work_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://annemarillis.com'),
   title: 'Annemarillis Invest',
   description: 'At Annemarillis Invest, we leverage over 25 years of experience in Management Consulting, Investment Strategy, M&A, Corporate Finance, and Social Entrepreneurship to provide family office services.',
   openGraph: {
