@@ -11,7 +11,7 @@ export default function Hero() {
                 At&nbsp;Annemarillis Invest, we&nbsp;leverage over 25&nbsp;years of&nbsp;experience in&nbsp;Management Consulting, Investment Strategy, M&amp;A, Corporate Finance, and (Social) Entrepreneurship to&nbsp;provide family office services.
                 </p>
                 <p className="text-xl">
-                Founded by&nbsp;Daniel Ahmad Krutzinna, Annemarillis Invest is&nbsp;dedicated to&nbsp;guiding businesses and startups towards sustainable success and growth.
+                Founded by&nbsp;Daniel Krutzinna, Annemarillis Invest is&nbsp;dedicated to&nbsp;guiding businesses and startups towards sustainable success and growth.
                 </p>
             </div>
         </div>
